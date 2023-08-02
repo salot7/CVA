@@ -1,7 +1,7 @@
 ## Machine Learning model comparison case
 ### Info
-Language: R
-Part of the code was handed in the assignment
+Language: R  
+_(Part of the code was handed in the assignment)_
 
 Dataset: 204 rows & 15 variables, labeled data
 
