@@ -17,5 +17,5 @@ Main takeaway using logistic regression model was that most impactful variables 
 
 ### What I learned
 * Use regression models to identify most important variables in labeled dataset
-* Construct a prediction model in Python
+* To construct a prediction model in Python
 * ..and evaluate the effectiveness of the prediction model
