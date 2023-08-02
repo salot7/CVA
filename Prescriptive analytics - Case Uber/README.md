@@ -4,7 +4,7 @@ Language: Python in Jupyter notebook
 
 Dataset: .csv file with 126 rows and 11 variables 
 
-### Introduction
+### Task
 The task was to optimize Uber's new product cost per revenue by analyzing dataset of acquired via switchback tests.
 
 More specifically, I had to formulate a data backed decision whether to increase 2 minute ride-matching time window to 5 minutes in the Uber's new Pool service. Longer waiting period allowed for reducing costs per-ride but could negatively affect the popularity of the service.
