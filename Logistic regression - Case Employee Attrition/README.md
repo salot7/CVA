@@ -1,4 +1,4 @@
-## Case Employee Attrition
+## Employee attrition case
 
 ### Info
 Dataset: Trained on 1731 rows with 12 columns
