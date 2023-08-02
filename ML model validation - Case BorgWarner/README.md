@@ -1,4 +1,4 @@
-## Machine Learning model validation case
+## Machine Learning model comparison case
 ### Info
 Language: R
 Part of the code was handed in the assignment
