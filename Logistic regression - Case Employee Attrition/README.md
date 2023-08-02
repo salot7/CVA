@@ -1,7 +1,7 @@
 ## Employee attrition case
 
 ### Info
-Dataset: Trained on 1731 rows with 12 columns
+Dataset: Trained on 1731 rows with 12 columns, courtesy of course staff
 
 Language: Python within Jupyter notebook
 Packages: Pandas, Sklearn
