@@ -1,4 +1,4 @@
-# CVA
+# Creating Value with Analytics - Tuomo Salo
 Data analysis code and reports for the Aalto IEM course "Creating Value with Analytics"  
 
 Each case folder contains the 
